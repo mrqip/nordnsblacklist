@@ -1,6 +1,16 @@
+# Norwegian news sites
 0.0.0.0 1.vgc.no
-0.0.0.0 advert.crontab.no
 0.0.0.0 advertisement.let.no
 0.0.0.0 advertisement.vg.no
 0.0.0.0 annonser.file.no
 0.0.0.0 annonser.hwn.no
+
+# Twitch.tv
+0.0.0.0 api.mixpanel.com
+0.0.0.0 spade.twitch.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 sb.scorecardresearch.com
+
+# Crypto miners
+0.0.0.0 coin-hive.com
+0.0.0.0 www.coin-hive.com
