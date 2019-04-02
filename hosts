@@ -4,6 +4,9 @@
 0.0.0.0 advertisement.vg.no
 0.0.0.0 annonser.file.no
 0.0.0.0 annonser.hwn.no
+# itavisen
+0.0.0.0 vi-serve.com
+0.0.0.0 nv.vi-serve.com
 
 # Twitch.tv
 0.0.0.0 api.mixpanel.com
